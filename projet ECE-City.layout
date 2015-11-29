@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="affichage.c" open="1" top="0" tabpos="2">
+		<Cursor position="3561" topLine="65" />
+	</File>
+	<File name="alim.c" open="1" top="0" tabpos="3">
+		<Cursor position="4087" topLine="147" />
+	</File>
+	<File name="animations.c" open="1" top="0" tabpos="4">
+		<Cursor position="1452" topLine="0" />
+	</File>
+	<File name="carte.c" open="1" top="0" tabpos="13">
+		<Cursor position="274" topLine="0" />
+	</File>
+	<File name="chargement_images.c" open="1" top="0" tabpos="5">
+		<Cursor position="4347" topLine="40" />
+	</File>
+	<File name="compteur_d&apos;années.c" open="1" top="0" tabpos="7">
+		<Cursor position="22" topLine="0" />
+	</File>
+	<File name="destruction.c" open="1" top="0" tabpos="14">
+		<Cursor position="387" topLine="7" />
+	</File>
+	<File name="file.c" open="1" top="0" tabpos="12">
+		<Cursor position="772" topLine="9" />
+	</File>
+	<File name="headers.h" open="1" top="0" tabpos="6">
+		<Cursor position="3980" topLine="146" />
+	</File>
+	<File name="install.c" open="1" top="0" tabpos="8">
+		<Cursor position="6409" topLine="86" />
+	</File>
+	<File name="main.c" open="1" top="1" tabpos="1">
+		<Cursor position="11239" topLine="402" />
+	</File>
+	<File name="parcour.c" open="1" top="0" tabpos="11">
+		<Cursor position="10898" topLine="251" />
+	</File>
+	<File name="sous-prog.c" open="1" top="0" tabpos="9">
+		<Cursor position="5670" topLine="221" />
+	</File>
+	<File name="vieillissement.c" open="1" top="0" tabpos="10">
+		<Cursor position="1097" topLine="19" />
+	</File>
+</CodeBlocks_layout_file>

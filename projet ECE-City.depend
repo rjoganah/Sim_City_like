@@ -1,0 +1,2801 @@
+# depslib dependency file v1.0
+1327447498 source:c:\users\robin\documents\theorie des graphes\projet info 4\projet ece-city\main.c
+	<allegro.h>
+	"headers.h"
+
+1327435905 source:c:\users\robin\documents\theorie des graphes\projet info 4\projet ece-city\affichage.c
+	"headers.h"
+
+1327447439 c:\users\robin\documents\theorie des graphes\projet info 4\projet ece-city\headers.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1327446454 source:c:\users\robin\documents\theorie des graphes\projet info 4\projet ece-city\sous-prog.c
+	"headers.h"
+
+1327447492 source:c:\users\robin\documents\theorie des graphes\projet info 4\projet ece-city\compteur_d'années.c
+	"headers.h"
+
+1327446440 source:c:\users\robin\documents\theorie des graphes\projet info 4\projet ece-city\install.c
+	"headers.h"
+
+1327448617 source:c:\users\olivier\dropbox\01 dossiers de partage\projet ece city 2012\codes\projet ece-cityv2\alim.c
+	"headers.h"
+
+1327447439 c:\users\olivier\dropbox\01 dossiers de partage\projet ece city 2012\codes\projet ece-cityv2\headers.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1327447492 source:c:\users\olivier\dropbox\01 dossiers de partage\projet ece city 2012\codes\projet ece-cityv2\compteur_d'années.c
+	"headers.h"
+
+1327448531 source:c:\users\olivier\dropbox\01 dossiers de partage\projet ece city 2012\codes\projet ece-cityv2\install.c
+	"headers.h"
+
+1327447498 source:c:\users\olivier\dropbox\01 dossiers de partage\projet ece city 2012\codes\projet ece-cityv2\main.c
+	<allegro.h>
+	"headers.h"
+
+1327446454 source:c:\users\olivier\dropbox\01 dossiers de partage\projet ece city 2012\codes\projet ece-cityv2\sous-prog.c
+	"headers.h"
+
+1327435905 source:c:\users\olivier\dropbox\01 dossiers de partage\projet ece city 2012\codes\projet ece-cityv2\affichage.c
+	"headers.h"
+
+1327919850 source:c:\users\bouchere.nt_user\downloads\codesrobin\codes\projet ece-cityv2\alim.c
+	"headers.h"
+
+1327919851 c:\users\bouchere.nt_user\downloads\codesrobin\codes\projet ece-cityv2\headers.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1327919851 source:c:\users\bouchere.nt_user\downloads\codesrobin\codes\projet ece-cityv2\compteur_d'années.c
+	"headers.h"
+
+1327919851 source:c:\users\bouchere.nt_user\downloads\codesrobin\codes\projet ece-cityv2\install.c
+	"headers.h"
+
+1327919851 source:c:\users\bouchere.nt_user\downloads\codesrobin\codes\projet ece-cityv2\main.c
+	<allegro.h>
+	"headers.h"
+
+1327919851 source:c:\users\bouchere.nt_user\downloads\codesrobin\codes\projet ece-cityv2\sous-prog.c
+	"headers.h"
+
+1327919851 source:c:\users\bouchere.nt_user\downloads\codesrobin\codes\projet ece-cityv2\affichage.c
+	"headers.h"
+
+1327919850 source:c:\users\bouchere.nt_user\downloads\codesv2-oli\alim.c
+	"headers.h"
+
+1327920740 c:\users\bouchere.nt_user\downloads\codesv2-oli\headers.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1327919851 source:c:\users\bouchere.nt_user\downloads\codesv2-oli\compteur_d'années.c
+	"headers.h"
+
+1327919851 source:c:\users\bouchere.nt_user\downloads\codesv2-oli\install.c
+	"headers.h"
+
+1327920134 source:c:\users\bouchere.nt_user\downloads\codesv2-oli\main.c
+	<allegro.h>
+	"headers.h"
+
+1327920555 source:c:\users\bouchere.nt_user\downloads\codesv2-oli\sous-prog.c
+	"headers.h"
+
+1327921530 source:c:\users\bouchere.nt_user\downloads\codesv2-oli\affichage.c
+	"headers.h"
+
+1327919852 source:c:\users\olivier\desktop\ece city\codesv2-oli\alim.c
+	"headers.h"
+
+1328225759 c:\users\olivier\desktop\ece city\codesv2-oli\headers.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1327919852 source:c:\users\olivier\desktop\ece city\codesv2-oli\compteur_d'années.c
+	"headers.h"
+
+1327919852 source:c:\users\olivier\desktop\ece city\codesv2-oli\install.c
+	"headers.h"
+
+1328226048 source:c:\users\olivier\desktop\ece city\codesv2-oli\main.c
+	<allegro.h>
+	"headers.h"
+
+1327920556 source:c:\users\olivier\desktop\ece city\codesv2-oli\sous-prog.c
+	"headers.h"
+
+1328225857 source:c:\users\olivier\desktop\ece city\codesv2-oli\chargement_images.c
+	"headers.h"
+
+1328224383 source:c:\users\olivier\desktop\ece city\codesv2-oli\affichage.c
+	"headers.h"
+
+1328226852 source:c:\users\olivier\desktop\ece city\essai affichage\alim.c
+	"headers.h"
+
+1328227181 c:\users\olivier\desktop\ece city\essai affichage\headers.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1328226200 source:c:\users\olivier\desktop\ece city\essai affichage\chargement_images.c
+	"headers.h"
+
+1327919852 source:c:\users\olivier\desktop\ece city\essai affichage\compteur_d'années.c
+	"headers.h"
+
+1327919852 source:c:\users\olivier\desktop\ece city\essai affichage\install.c
+	"headers.h"
+
+1328227351 source:c:\users\olivier\desktop\ece city\essai affichage\main.c
+	<allegro.h>
+	"headers.h"
+
+1327920556 source:c:\users\olivier\desktop\ece city\essai affichage\sous-prog.c
+	"headers.h"
+
+1328224383 source:c:\users\olivier\desktop\ece city\essai affichage\affichage.c
+	"headers.h"
+
+1328226852 source:c:\users\olivier\desktop\ece city\chargement images ok\alim.c
+	"headers.h"
+
+1328231045 c:\users\olivier\desktop\ece city\chargement images ok\headers.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1328228332 source:c:\users\olivier\desktop\ece city\chargement images ok\chargement_images.c
+	"headers.h"
+
+1327919852 source:c:\users\olivier\desktop\ece city\chargement images ok\compteur_d'années.c
+	"headers.h"
+
+1328231045 source:c:\users\olivier\desktop\ece city\chargement images ok\install.c
+	"headers.h"
+
+1328230294 source:c:\users\olivier\desktop\ece city\chargement images ok\main.c
+	<allegro.h>
+	"headers.h"
+
+1327920556 source:c:\users\olivier\desktop\ece city\chargement images ok\sous-prog.c
+	"headers.h"
+
+1328231429 source:c:\users\olivier\desktop\ece city\chargement images ok\affichage.c
+	"headers.h"
+
+1328226852 source:c:\users\olivier\desktop\affichage en cours de réalisation (v2)\alim.c
+	"headers.h"
+
+1328315492 c:\users\olivier\desktop\affichage en cours de réalisation (v2)\headers.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1328313952 source:c:\users\olivier\desktop\affichage en cours de réalisation (v2)\chargement_images.c
+	"headers.h"
+
+1327919852 source:c:\users\olivier\desktop\affichage en cours de réalisation (v2)\compteur_d'années.c
+	"headers.h"
+
+1328315415 source:c:\users\olivier\desktop\affichage en cours de réalisation (v2)\install.c
+	"headers.h"
+
+1328312271 source:c:\users\olivier\desktop\affichage en cours de réalisation (v2)\main.c
+	<allegro.h>
+	"headers.h"
+
+1328315415 source:c:\users\olivier\desktop\affichage en cours de réalisation (v2)\sous-prog.c
+	"headers.h"
+
+1328313982 source:c:\users\olivier\desktop\affichage en cours de réalisation (v2)\affichage.c
+	"headers.h"
+
+1328226852 source:c:\users\olivier\desktop\affichage ok v2\alim.c
+	"headers.h"
+
+1328315492 c:\users\olivier\desktop\affichage ok v2\headers.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1328313952 source:c:\users\olivier\desktop\affichage ok v2\chargement_images.c
+	"headers.h"
+
+1327919852 source:c:\users\olivier\desktop\affichage ok v2\compteur_d'années.c
+	"headers.h"
+
+1328315415 source:c:\users\olivier\desktop\affichage ok v2\install.c
+	"headers.h"
+
+1328312271 source:c:\users\olivier\desktop\affichage ok v2\main.c
+	<allegro.h>
+	"headers.h"
+
+1328317045 source:c:\users\olivier\desktop\affichage ok v2\sous-prog.c
+	"headers.h"
+
+1328316898 source:c:\users\olivier\desktop\affichage ok v2\affichage.c
+	"headers.h"
+
+1328226852 source:c:\users\olivier\desktop\affichage ok v3\alim.c
+	"headers.h"
+
+1328319334 c:\users\olivier\desktop\affichage ok v3\headers.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1328319438 source:c:\users\olivier\desktop\affichage ok v3\chargement_images.c
+	"headers.h"
+
+1327919852 source:c:\users\olivier\desktop\affichage ok v3\compteur_d'années.c
+	"headers.h"
+
+1328315415 source:c:\users\olivier\desktop\affichage ok v3\install.c
+	"headers.h"
+
+1328319508 source:c:\users\olivier\desktop\affichage ok v3\main.c
+	<allegro.h>
+	"headers.h"
+
+1328319334 source:c:\users\olivier\desktop\affichage ok v3\sous-prog.c
+	"headers.h"
+
+1328319565 source:c:\users\olivier\desktop\affichage ok v3\affichage.c
+	"headers.h"
+
+1328226852 source:c:\users\olivier\desktop\affichage v4\alim.c
+	"headers.h"
+
+1328365130 c:\users\olivier\desktop\affichage v4\headers.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1328319438 source:c:\users\olivier\desktop\affichage v4\chargement_images.c
+	"headers.h"
+
+1327919852 source:c:\users\olivier\desktop\affichage v4\compteur_d'années.c
+	"headers.h"
+
+1328366602 source:c:\users\olivier\desktop\affichage v4\install.c
+	"headers.h"
+
+1328319508 source:c:\users\olivier\desktop\affichage v4\main.c
+	<allegro.h>
+	"headers.h"
+
+1328367591 source:c:\users\olivier\desktop\affichage v4\sous-prog.c
+	"headers.h"
+
+1328366351 source:c:\users\olivier\desktop\affichage v4\affichage.c
+	"headers.h"
+
+1328226852 source:c:\users\olivier\desktop\affichage v5\alim.c
+	"headers.h"
+
+1328372020 c:\users\olivier\desktop\affichage v5\headers.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1328372020 source:c:\users\olivier\desktop\affichage v5\chargement_images.c
+	"headers.h"
+
+1327919852 source:c:\users\olivier\desktop\affichage v5\compteur_d'années.c
+	"headers.h"
+
+1328371414 source:c:\users\olivier\desktop\affichage v5\install.c
+	"headers.h"
+
+1328371581 source:c:\users\olivier\desktop\affichage v5\main.c
+	<allegro.h>
+	"headers.h"
+
+1328372696 source:c:\users\olivier\desktop\affichage v5\sous-prog.c
+	"headers.h"
+
+1328373096 source:c:\users\olivier\desktop\affichage v5\affichage.c
+	"headers.h"
+
+1328226852 source:c:\users\olivier\desktop\affichage v6\alim.c
+	"headers.h"
+
+1328381570 c:\users\olivier\desktop\affichage v6\headers.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1327919852 source:c:\users\olivier\desktop\affichage v6\compteur_d'années.c
+	"headers.h"
+
+1328377461 source:c:\users\olivier\desktop\affichage v6\chargement_images.c
+	"headers.h"
+
+1328379142 source:c:\users\olivier\desktop\affichage v6\install.c
+	"headers.h"
+
+1328380275 source:c:\users\olivier\desktop\affichage v6\main.c
+	<allegro.h>
+	"headers.h"
+
+1328379596 source:c:\users\olivier\desktop\affichage v6\sous-prog.c
+	"headers.h"
+
+1328377519 source:c:\users\olivier\desktop\affichage v6\affichage.c
+	"headers.h"
+
+1328226852 source:c:\users\olivier\desktop\affichage v7\alim.c
+	"headers.h"
+
+1328381570 c:\users\olivier\desktop\affichage v7\headers.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1328381550 source:c:\users\olivier\desktop\affichage v7\chargement_images.c
+	"headers.h"
+
+1327919852 source:c:\users\olivier\desktop\affichage v7\compteur_d'années.c
+	"headers.h"
+
+1328379142 source:c:\users\olivier\desktop\affichage v7\install.c
+	"headers.h"
+
+1328380275 source:c:\users\olivier\desktop\affichage v7\main.c
+	<allegro.h>
+	"headers.h"
+
+1328381531 source:c:\users\olivier\desktop\affichage v7\sous-prog.c
+	"headers.h"
+
+1328377519 source:c:\users\olivier\desktop\affichage v7\affichage.c
+	"headers.h"
+
+1328226852 source:c:\users\olivier\desktop\affichage v8\alim.c
+	"headers.h"
+
+1328385188 c:\users\olivier\desktop\affichage v8\headers.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1328381550 source:c:\users\olivier\desktop\affichage v8\chargement_images.c
+	"headers.h"
+
+1327919852 source:c:\users\olivier\desktop\affichage v8\compteur_d'années.c
+	"headers.h"
+
+1328379142 source:c:\users\olivier\desktop\affichage v8\install.c
+	"headers.h"
+
+1328380275 source:c:\users\olivier\desktop\affichage v8\main.c
+	<allegro.h>
+	"headers.h"
+
+1328381531 source:c:\users\olivier\desktop\affichage v8\sous-prog.c
+	"headers.h"
+
+1328377519 source:c:\users\olivier\desktop\affichage v8\affichage.c
+	"headers.h"
+
+1328226852 source:c:\users\olivier\desktop\affichage v9\alim.c
+	"headers.h"
+
+1328394452 c:\users\olivier\desktop\affichage v9\headers.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1328387696 source:c:\users\olivier\desktop\affichage v9\chargement_images.c
+	"headers.h"
+
+1327919852 source:c:\users\olivier\desktop\affichage v9\compteur_d'années.c
+	"headers.h"
+
+1328379142 source:c:\users\olivier\desktop\affichage v9\install.c
+	"headers.h"
+
+1328395497 source:c:\users\olivier\desktop\affichage v9\main.c
+	<allegro.h>
+	<time.h>
+	"headers.h"
+
+1328381531 source:c:\users\olivier\desktop\affichage v9\sous-prog.c
+	"headers.h"
+
+1328377519 source:c:\users\olivier\desktop\affichage v9\affichage.c
+	"headers.h"
+
+1328394602 source:c:\users\olivier\desktop\affichage v9\animations.c
+	"headers.h"
+
+1328226852 source:c:\users\olivier\desktop\affichage v10\alim.c
+	"headers.h"
+
+1328402451 c:\users\olivier\desktop\affichage v10\headers.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1328394602 source:c:\users\olivier\desktop\affichage v10\animations.c
+	"headers.h"
+
+1328398860 source:c:\users\olivier\desktop\affichage v10\chargement_images.c
+	"headers.h"
+
+1327919852 source:c:\users\olivier\desktop\affichage v10\compteur_d'années.c
+	"headers.h"
+
+1328396497 source:c:\users\olivier\desktop\affichage v10\install.c
+	"headers.h"
+
+1328402248 source:c:\users\olivier\desktop\affichage v10\main.c
+	<allegro.h>
+	<time.h>
+	"headers.h"
+
+1328381531 source:c:\users\olivier\desktop\affichage v10\sous-prog.c
+	"headers.h"
+
+1328399413 source:c:\users\olivier\desktop\affichage v10\affichage.c
+	"headers.h"
+
+1328226852 source:c:\users\olivier\desktop\affichage v11\alim.c
+	"headers.h"
+
+1328403225 c:\users\olivier\desktop\affichage v11\headers.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1328394602 source:c:\users\olivier\desktop\affichage v11\animations.c
+	"headers.h"
+
+1328398860 source:c:\users\olivier\desktop\affichage v11\chargement_images.c
+	"headers.h"
+
+1327919852 source:c:\users\olivier\desktop\affichage v11\compteur_d'années.c
+	"headers.h"
+
+1328396497 source:c:\users\olivier\desktop\affichage v11\install.c
+	"headers.h"
+
+1328403225 source:c:\users\olivier\desktop\affichage v11\main.c
+	<allegro.h>
+	<time.h>
+	"headers.h"
+
+1328399413 source:c:\users\olivier\desktop\affichage v11\affichage.c
+	"headers.h"
+
+1328403035 source:c:\users\olivier\desktop\affichage v11\sous-prog.c
+	"headers.h"
+
+1328226852 source:c:\users\olivier\desktop\affichage v12\alim.c
+	"headers.h"
+
+1328412698 c:\users\olivier\desktop\affichage v12\headers.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1328412698 source:c:\users\olivier\desktop\affichage v12\chargement_images.c
+	"headers.h"
+
+1327919852 source:c:\users\olivier\desktop\affichage v12\compteur_d'années.c
+	"headers.h"
+
+1328396497 source:c:\users\olivier\desktop\affichage v12\install.c
+	"headers.h"
+
+1328416175 source:c:\users\olivier\desktop\affichage v12\main.c
+	<allegro.h>
+	<time.h>
+	"headers.h"
+
+1328416585 source:c:\users\olivier\desktop\affichage v12\sous-prog.c
+	"headers.h"
+
+1328407095 source:c:\users\olivier\desktop\affichage v12\animations.c
+	"headers.h"
+
+1328416175 source:c:\users\olivier\desktop\affichage v12\affichage.c
+	"headers.h"
+
+1328226852 source:c:\users\olivier\desktop\affichage v13\alim.c
+	"headers.h"
+
+1328412698 c:\users\olivier\desktop\affichage v13\headers.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1328407095 source:c:\users\olivier\desktop\affichage v13\animations.c
+	"headers.h"
+
+1328443536 source:c:\users\olivier\desktop\affichage v13\chargement_images.c
+	"headers.h"
+
+1327919852 source:c:\users\olivier\desktop\affichage v13\compteur_d'années.c
+	"headers.h"
+
+1328396497 source:c:\users\olivier\desktop\affichage v13\install.c
+	"headers.h"
+
+1328444049 source:c:\users\olivier\desktop\affichage v13\main.c
+	<allegro.h>
+	<time.h>
+	"headers.h"
+
+1328444000 source:c:\users\olivier\desktop\affichage v13\sous-prog.c
+	"headers.h"
+
+1328444489 source:c:\users\olivier\desktop\affichage v13\affichage.c
+	"headers.h"
+
+1328226852 source:c:\users\olivier\desktop\affichage v14\alim.c
+	"headers.h"
+
+1328448738 c:\users\olivier\desktop\affichage v14\headers.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1328407095 source:c:\users\olivier\desktop\affichage v14\animations.c
+	"headers.h"
+
+1328447816 source:c:\users\olivier\desktop\affichage v14\chargement_images.c
+	"headers.h"
+
+1327919852 source:c:\users\olivier\desktop\affichage v14\compteur_d'années.c
+	"headers.h"
+
+1328396497 source:c:\users\olivier\desktop\affichage v14\install.c
+	"headers.h"
+
+1328449139 source:c:\users\olivier\desktop\affichage v14\main.c
+	<allegro.h>
+	<time.h>
+	"headers.h"
+
+1328448532 source:c:\users\olivier\desktop\affichage v14\sous-prog.c
+	"headers.h"
+
+1328448850 source:c:\users\olivier\desktop\affichage v14\affichage.c
+	"headers.h"
+
+1328226852 source:c:\users\olivier\desktop\affichage v15\alim.c
+	"headers.h"
+
+1328448738 c:\users\olivier\desktop\affichage v15\headers.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1328407095 source:c:\users\olivier\desktop\affichage v15\animations.c
+	"headers.h"
+
+1328447816 source:c:\users\olivier\desktop\affichage v15\chargement_images.c
+	"headers.h"
+
+1327919852 source:c:\users\olivier\desktop\affichage v15\compteur_d'années.c
+	"headers.h"
+
+1328396497 source:c:\users\olivier\desktop\affichage v15\install.c
+	"headers.h"
+
+1328448532 source:c:\users\olivier\desktop\affichage v15\sous-prog.c
+	"headers.h"
+
+1328448850 source:c:\users\olivier\desktop\affichage v15\affichage.c
+	"headers.h"
+
+1328226852 source:c:\users\olivier\desktop\affichage v16\alim.c
+	"headers.h"
+
+1328459538 c:\users\olivier\desktop\affichage v16\headers.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1328407095 source:c:\users\olivier\desktop\affichage v16\animations.c
+	"headers.h"
+
+1327919852 source:c:\users\olivier\desktop\affichage v16\compteur_d'années.c
+	"headers.h"
+
+1328396497 source:c:\users\olivier\desktop\affichage v16\install.c
+	"headers.h"
+
+1328461655 source:c:\users\olivier\desktop\affichage v16\sous-prog.c
+	"headers.h"
+
+1328461841 source:c:\users\olivier\desktop\affichage v16\affichage.c
+	"headers.h"
+
+1328458320 source:c:\users\olivier\desktop\affichage v16\chargement_images.c
+	"headers.h"
+
+1328460351 source:c:\users\olivier\desktop\affichage v16\main.c
+	<allegro.h>
+	<time.h>
+	"headers.h"
+
+1328226852 source:c:\users\olivier\desktop\affichage v17\alim.c
+	"headers.h"
+
+1328459538 c:\users\olivier\desktop\affichage v17\headers.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1328407095 source:c:\users\olivier\desktop\affichage v17\animations.c
+	"headers.h"
+
+1328458320 source:c:\users\olivier\desktop\affichage v17\chargement_images.c
+	"headers.h"
+
+1327919852 source:c:\users\olivier\desktop\affichage v17\compteur_d'années.c
+	"headers.h"
+
+1328396497 source:c:\users\olivier\desktop\affichage v17\install.c
+	"headers.h"
+
+1328461954 source:c:\users\olivier\desktop\affichage v17\main.c
+	<allegro.h>
+	<time.h>
+	"headers.h"
+
+1328461655 source:c:\users\olivier\desktop\affichage v17\sous-prog.c
+	"headers.h"
+
+1328461841 source:c:\users\olivier\desktop\affichage v17\affichage.c
+	"headers.h"
+
+1328226852 source:c:\users\olivier\desktop\affichage v18\alim.c
+	"headers.h"
+
+1328459538 c:\users\olivier\desktop\affichage v18\headers.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1328407095 source:c:\users\olivier\desktop\affichage v18\animations.c
+	"headers.h"
+
+1328458320 source:c:\users\olivier\desktop\affichage v18\chargement_images.c
+	"headers.h"
+
+1327919852 source:c:\users\olivier\desktop\affichage v18\compteur_d'années.c
+	"headers.h"
+
+1328396497 source:c:\users\olivier\desktop\affichage v18\install.c
+	"headers.h"
+
+1328461954 source:c:\users\olivier\desktop\affichage v18\main.c
+	<allegro.h>
+	<time.h>
+	"headers.h"
+
+1328461655 source:c:\users\olivier\desktop\affichage v18\sous-prog.c
+	"headers.h"
+
+1328461841 source:c:\users\olivier\desktop\affichage v18\affichage.c
+	"headers.h"
+
+1328226852 source:c:\users\olivier\desktop\affichage v19\alim.c
+	"headers.h"
+
+1328476455 c:\users\olivier\desktop\affichage v19\headers.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1328407095 source:c:\users\olivier\desktop\affichage v19\animations.c
+	"headers.h"
+
+1328458320 source:c:\users\olivier\desktop\affichage v19\chargement_images.c
+	"headers.h"
+
+1327919852 source:c:\users\olivier\desktop\affichage v19\compteur_d'années.c
+	"headers.h"
+
+1328396497 source:c:\users\olivier\desktop\affichage v19\install.c
+	"headers.h"
+
+1328474862 source:c:\users\olivier\desktop\affichage v19\main.c
+	<allegro.h>
+	<time.h>
+	"headers.h"
+
+1328476504 source:c:\users\olivier\desktop\affichage v19\sous-prog.c
+	"headers.h"
+
+1328471709 source:c:\users\olivier\desktop\affichage v19\affichage.c
+	"headers.h"
+
+1328226852 source:c:\users\olivier\desktop\affichage v20\alim.c
+	"headers.h"
+
+1328476455 c:\users\olivier\desktop\affichage v20\headers.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1328407095 source:c:\users\olivier\desktop\affichage v20\animations.c
+	"headers.h"
+
+1328458320 source:c:\users\olivier\desktop\affichage v20\chargement_images.c
+	"headers.h"
+
+1327919852 source:c:\users\olivier\desktop\affichage v20\compteur_d'années.c
+	"headers.h"
+
+1328396497 source:c:\users\olivier\desktop\affichage v20\install.c
+	"headers.h"
+
+1328474862 source:c:\users\olivier\desktop\affichage v20\main.c
+	<allegro.h>
+	<time.h>
+	"headers.h"
+
+1328471709 source:c:\users\olivier\desktop\affichage v20\affichage.c
+	"headers.h"
+
+1328480433 source:c:\users\olivier\desktop\affichage v20\sous-prog.c
+	"headers.h"
+
+1328226852 source:c:\users\olivier\desktop\affichage v21\alim.c
+	"headers.h"
+
+1328488098 c:\users\olivier\desktop\affichage v21\headers.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1328484507 source:c:\users\olivier\desktop\affichage v21\animations.c
+	"headers.h"
+
+1328488098 source:c:\users\olivier\desktop\affichage v21\chargement_images.c
+	"headers.h"
+
+1327919852 source:c:\users\olivier\desktop\affichage v21\compteur_d'années.c
+	"headers.h"
+
+1328396497 source:c:\users\olivier\desktop\affichage v21\install.c
+	"headers.h"
+
+1328488105 source:c:\users\olivier\desktop\affichage v21\main.c
+	<allegro.h>
+	<time.h>
+	"headers.h"
+
+1328489102 source:c:\users\olivier\desktop\affichage v21\sous-prog.c
+	"headers.h"
+
+1328489709 source:c:\users\olivier\desktop\affichage v21\affichage.c
+	"headers.h"
+
+1328226852 source:c:\users\olivier\desktop\affichage v22\alim.c
+	"headers.h"
+
+1328488098 c:\users\olivier\desktop\affichage v22\headers.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1328484507 source:c:\users\olivier\desktop\affichage v22\animations.c
+	"headers.h"
+
+1328488098 source:c:\users\olivier\desktop\affichage v22\chargement_images.c
+	"headers.h"
+
+1327919852 source:c:\users\olivier\desktop\affichage v22\compteur_d'années.c
+	"headers.h"
+
+1328396497 source:c:\users\olivier\desktop\affichage v22\install.c
+	"headers.h"
+
+1328488105 source:c:\users\olivier\desktop\affichage v22\main.c
+	<allegro.h>
+	<time.h>
+	"headers.h"
+
+1328489102 source:c:\users\olivier\desktop\affichage v22\sous-prog.c
+	"headers.h"
+
+1328489709 source:c:\users\olivier\desktop\affichage v22\affichage.c
+	"headers.h"
+
+1328226852 source:c:\users\olivier\desktop\affichage v23\alim.c
+	"headers.h"
+
+1328488098 c:\users\olivier\desktop\affichage v23\headers.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1328484507 source:c:\users\olivier\desktop\affichage v23\animations.c
+	"headers.h"
+
+1328491818 source:c:\users\olivier\desktop\affichage v23\chargement_images.c
+	"headers.h"
+
+1327919852 source:c:\users\olivier\desktop\affichage v23\compteur_d'années.c
+	"headers.h"
+
+1328396497 source:c:\users\olivier\desktop\affichage v23\install.c
+	"headers.h"
+
+1328488105 source:c:\users\olivier\desktop\affichage v23\main.c
+	<allegro.h>
+	<time.h>
+	"headers.h"
+
+1328492345 source:c:\users\olivier\desktop\affichage v23\sous-prog.c
+	"headers.h"
+
+1328491958 source:c:\users\olivier\desktop\affichage v23\affichage.c
+	"headers.h"
+
+1328226852 source:c:\users\olivier\desktop\affichage v24\alim.c
+	"headers.h"
+
+1328488098 c:\users\olivier\desktop\affichage v24\headers.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1328484507 source:c:\users\olivier\desktop\affichage v24\animations.c
+	"headers.h"
+
+1328491818 source:c:\users\olivier\desktop\affichage v24\chargement_images.c
+	"headers.h"
+
+1327919852 source:c:\users\olivier\desktop\affichage v24\compteur_d'années.c
+	"headers.h"
+
+1328493551 source:c:\users\olivier\desktop\affichage v24\install.c
+	"headers.h"
+
+1328488105 source:c:\users\olivier\desktop\affichage v24\main.c
+	<allegro.h>
+	<time.h>
+	"headers.h"
+
+1328492345 source:c:\users\olivier\desktop\affichage v24\sous-prog.c
+	"headers.h"
+
+1328493485 source:c:\users\olivier\desktop\affichage v24\affichage.c
+	"headers.h"
+
+1328522974 source:c:\users\olivier\desktop\affichage v25\alim.c
+	"headers.h"
+
+1328522974 c:\users\olivier\desktop\affichage v25\headers.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1328484507 source:c:\users\olivier\desktop\affichage v25\animations.c
+	"headers.h"
+
+1328491818 source:c:\users\olivier\desktop\affichage v25\chargement_images.c
+	"headers.h"
+
+1327919852 source:c:\users\olivier\desktop\affichage v25\compteur_d'années.c
+	"headers.h"
+
+1328522974 source:c:\users\olivier\desktop\affichage v25\install.c
+	"headers.h"
+
+1328522974 source:c:\users\olivier\desktop\affichage v25\main.c
+	<allegro.h>
+	<time.h>
+	"headers.h"
+
+1328522974 source:c:\users\olivier\desktop\affichage v25\sous-prog.c
+	"headers.h"
+
+1328493583 source:c:\users\olivier\desktop\affichage v25\affichage.c
+	"headers.h"
+
+1328461999 source:c:\users\olivier\desktop\affichage v25\destruction.c
+	"headers.h"
+
+1328462002 source:c:\users\olivier\desktop\affichage v25\file.c
+	"headers.h"
+
+1328522974 source:c:\users\olivier\desktop\affichage v25\parcour.c
+	"headers.h"
+
+1328522974 source:c:\users\olivier\desktop\affichage v25\vieillissement.c
+	"headers.h"
+
+1328493583 source:c:\users\olivier\desktop\regroupement v1\affichage.c
+	"headers.h"
+
+1328522974 c:\users\olivier\desktop\regroupement v1\headers.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1328522974 source:c:\users\olivier\desktop\regroupement v1\alim.c
+	"headers.h"
+
+1328484507 source:c:\users\olivier\desktop\regroupement v1\animations.c
+	"headers.h"
+
+1328491818 source:c:\users\olivier\desktop\regroupement v1\chargement_images.c
+	"headers.h"
+
+1327919852 source:c:\users\olivier\desktop\regroupement v1\compteur_d'années.c
+	"headers.h"
+
+1328461999 source:c:\users\olivier\desktop\regroupement v1\destruction.c
+	"headers.h"
+
+1328462002 source:c:\users\olivier\desktop\regroupement v1\file.c
+	"headers.h"
+
+1328522974 source:c:\users\olivier\desktop\regroupement v1\install.c
+	"headers.h"
+
+1328522974 source:c:\users\olivier\desktop\regroupement v1\main.c
+	<allegro.h>
+	<time.h>
+	"headers.h"
+
+1328522974 source:c:\users\olivier\desktop\regroupement v1\parcour.c
+	"headers.h"
+
+1328522974 source:c:\users\olivier\desktop\regroupement v1\sous-prog.c
+	"headers.h"
+
+1328522974 source:c:\users\olivier\desktop\regroupement v1\vieillissement.c
+	"headers.h"
+
+1328493583 source:c:\users\olivier\desktop\ece city 2012 workspace\regroupement v1\affichage.c
+	"headers.h"
+
+1328522974 c:\users\olivier\desktop\ece city 2012 workspace\regroupement v1\headers.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1328522974 source:c:\users\olivier\desktop\ece city 2012 workspace\regroupement v1\alim.c
+	"headers.h"
+
+1328484507 source:c:\users\olivier\desktop\ece city 2012 workspace\regroupement v1\animations.c
+	"headers.h"
+
+1328491818 source:c:\users\olivier\desktop\ece city 2012 workspace\regroupement v1\chargement_images.c
+	"headers.h"
+
+1327919852 source:c:\users\olivier\desktop\ece city 2012 workspace\regroupement v1\compteur_d'années.c
+	"headers.h"
+
+1328461999 source:c:\users\olivier\desktop\ece city 2012 workspace\regroupement v1\destruction.c
+	"headers.h"
+
+1328462002 source:c:\users\olivier\desktop\ece city 2012 workspace\regroupement v1\file.c
+	"headers.h"
+
+1328522974 source:c:\users\olivier\desktop\ece city 2012 workspace\regroupement v1\install.c
+	"headers.h"
+
+1328533434 source:c:\users\olivier\desktop\ece city 2012 workspace\regroupement v1\main.c
+	<allegro.h>
+	<time.h>
+	"headers.h"
+
+1328522974 source:c:\users\olivier\desktop\ece city 2012 workspace\regroupement v1\parcour.c
+	"headers.h"
+
+1328522974 source:c:\users\olivier\desktop\ece city 2012 workspace\regroupement v1\sous-prog.c
+	"headers.h"
+
+1328522974 source:c:\users\olivier\desktop\ece city 2012 workspace\regroupement v1\vieillissement.c
+	"headers.h"
+
+1328493583 source:c:\users\olivier\desktop\ece city 2012 workspace\regroupement v2\affichage.c
+	"headers.h"
+
+1328522974 c:\users\olivier\desktop\ece city 2012 workspace\regroupement v2\headers.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1328522974 source:c:\users\olivier\desktop\ece city 2012 workspace\regroupement v2\alim.c
+	"headers.h"
+
+1328484507 source:c:\users\olivier\desktop\ece city 2012 workspace\regroupement v2\animations.c
+	"headers.h"
+
+1328491818 source:c:\users\olivier\desktop\ece city 2012 workspace\regroupement v2\chargement_images.c
+	"headers.h"
+
+1327919852 source:c:\users\olivier\desktop\ece city 2012 workspace\regroupement v2\compteur_d'années.c
+	"headers.h"
+
+1328461999 source:c:\users\olivier\desktop\ece city 2012 workspace\regroupement v2\destruction.c
+	"headers.h"
+
+1328462002 source:c:\users\olivier\desktop\ece city 2012 workspace\regroupement v2\file.c
+	"headers.h"
+
+1328522974 source:c:\users\olivier\desktop\ece city 2012 workspace\regroupement v2\install.c
+	"headers.h"
+
+1328625759 source:c:\users\olivier\desktop\ece city 2012 workspace\regroupement v2\main.c
+	<allegro.h>
+	<time.h>
+	"headers.h"
+
+1328522974 source:c:\users\olivier\desktop\ece city 2012 workspace\regroupement v2\parcour.c
+	"headers.h"
+
+1328522974 source:c:\users\olivier\desktop\ece city 2012 workspace\regroupement v2\vieillissement.c
+	"headers.h"
+
+1328625715 source:c:\users\olivier\desktop\ece city 2012 workspace\regroupement v2\sous-prog.c
+	"headers.h"
+
+1328643127 source:c:\users\olivier\desktop\regroupement v2bis\affichage.c
+	"headers.h"
+
+1328522974 c:\users\olivier\desktop\regroupement v2bis\headers.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1328522974 source:c:\users\olivier\desktop\regroupement v2bis\alim.c
+	"headers.h"
+
+1328484507 source:c:\users\olivier\desktop\regroupement v2bis\animations.c
+	"headers.h"
+
+1328491818 source:c:\users\olivier\desktop\regroupement v2bis\chargement_images.c
+	"headers.h"
+
+1327919852 source:c:\users\olivier\desktop\regroupement v2bis\compteur_d'années.c
+	"headers.h"
+
+1328461999 source:c:\users\olivier\desktop\regroupement v2bis\destruction.c
+	"headers.h"
+
+1328462002 source:c:\users\olivier\desktop\regroupement v2bis\file.c
+	"headers.h"
+
+1328522974 source:c:\users\olivier\desktop\regroupement v2bis\install.c
+	"headers.h"
+
+1328643976 source:c:\users\olivier\desktop\regroupement v2bis\main.c
+	<allegro.h>
+	<time.h>
+	"headers.h"
+
+1328522974 source:c:\users\olivier\desktop\regroupement v2bis\parcour.c
+	"headers.h"
+
+1328643736 source:c:\users\olivier\desktop\regroupement v2bis\sous-prog.c
+	"headers.h"
+
+1328522974 source:c:\users\olivier\desktop\regroupement v2bis\vieillissement.c
+	"headers.h"
+
+1328643127 source:c:\users\robin\desktop\regroupement v2\affichage.c
+	"headers.h"
+
+1328522974 c:\users\robin\desktop\regroupement v2\headers.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1328522974 source:c:\users\robin\desktop\regroupement v2\alim.c
+	"headers.h"
+
+1328484507 source:c:\users\robin\desktop\regroupement v2\animations.c
+	"headers.h"
+
+1328491818 source:c:\users\robin\desktop\regroupement v2\chargement_images.c
+	"headers.h"
+
+1327919852 source:c:\users\robin\desktop\regroupement v2\compteur_d'années.c
+	"headers.h"
+
+1328645868 source:c:\users\robin\desktop\regroupement v2\destruction.c
+	"headers.h"
+
+1328462002 source:c:\users\robin\desktop\regroupement v2\file.c
+	"headers.h"
+
+1328645320 source:c:\users\robin\desktop\regroupement v2\install.c
+	"headers.h"
+
+1328645979 source:c:\users\robin\desktop\regroupement v2\main.c
+	<allegro.h>
+	<time.h>
+	"headers.h"
+
+1328522974 source:c:\users\robin\desktop\regroupement v2\parcour.c
+	"headers.h"
+
+1328645581 source:c:\users\robin\desktop\regroupement v2\sous-prog.c
+	"headers.h"
+
+1328645812 source:c:\users\robin\desktop\regroupement v2\vieillissement.c
+	"headers.h"
+
+1328643127 source:c:\users\olivier\desktop\regroupement v3db\affichage.c
+	"headers.h"
+
+1328522974 c:\users\olivier\desktop\regroupement v3db\headers.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1328522974 source:c:\users\olivier\desktop\regroupement v3db\alim.c
+	"headers.h"
+
+1328484507 source:c:\users\olivier\desktop\regroupement v3db\animations.c
+	"headers.h"
+
+1328491818 source:c:\users\olivier\desktop\regroupement v3db\chargement_images.c
+	"headers.h"
+
+1327919852 source:c:\users\olivier\desktop\regroupement v3db\compteur_d'années.c
+	"headers.h"
+
+1328462002 source:c:\users\olivier\desktop\regroupement v3db\file.c
+	"headers.h"
+
+1328645320 source:c:\users\olivier\desktop\regroupement v3db\install.c
+	"headers.h"
+
+1328647730 source:c:\users\olivier\desktop\regroupement v3db\main.c
+	<allegro.h>
+	<time.h>
+	"headers.h"
+
+1328522974 source:c:\users\olivier\desktop\regroupement v3db\parcour.c
+	"headers.h"
+
+1328645581 source:c:\users\olivier\desktop\regroupement v3db\sous-prog.c
+	"headers.h"
+
+1328645812 source:c:\users\olivier\desktop\regroupement v3db\vieillissement.c
+	"headers.h"
+
+1328647513 source:c:\users\olivier\desktop\regroupement v3db\destruction.c
+	"headers.h"
+
+1328643127 source:c:\users\olivier\desktop\regroupement v5\affichage.c
+	"headers.h"
+
+1328649440 c:\users\olivier\desktop\regroupement v5\headers.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1328522974 source:c:\users\olivier\desktop\regroupement v5\alim.c
+	"headers.h"
+
+1328484507 source:c:\users\olivier\desktop\regroupement v5\animations.c
+	"headers.h"
+
+1327919852 source:c:\users\olivier\desktop\regroupement v5\compteur_d'années.c
+	"headers.h"
+
+1328647513 source:c:\users\olivier\desktop\regroupement v5\destruction.c
+	"headers.h"
+
+1328462002 source:c:\users\olivier\desktop\regroupement v5\file.c
+	"headers.h"
+
+1328522974 source:c:\users\olivier\desktop\regroupement v5\parcour.c
+	"headers.h"
+
+1328647823 source:c:\users\olivier\desktop\regroupement v5\sous-prog.c
+	"headers.h"
+
+1328645812 source:c:\users\olivier\desktop\regroupement v5\vieillissement.c
+	"headers.h"
+
+1328649440 source:c:\users\olivier\desktop\regroupement v5\chargement_images.c
+	"headers.h"
+
+1328649440 source:c:\users\olivier\desktop\regroupement v5\install.c
+	"headers.h"
+
+1328649449 source:c:\users\olivier\desktop\regroupement v5\main.c
+	<allegro.h>
+	<time.h>
+	"headers.h"
+
+1328643127 source:c:\users\olivier\desktop\regroupement v6\affichage.c
+	"headers.h"
+
+1328650425 c:\users\olivier\desktop\regroupement v6\headers.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1328522974 source:c:\users\olivier\desktop\regroupement v6\alim.c
+	"headers.h"
+
+1328484507 source:c:\users\olivier\desktop\regroupement v6\animations.c
+	"headers.h"
+
+1328649440 source:c:\users\olivier\desktop\regroupement v6\chargement_images.c
+	"headers.h"
+
+1327919852 source:c:\users\olivier\desktop\regroupement v6\compteur_d'années.c
+	"headers.h"
+
+1328647513 source:c:\users\olivier\desktop\regroupement v6\destruction.c
+	"headers.h"
+
+1328462002 source:c:\users\olivier\desktop\regroupement v6\file.c
+	"headers.h"
+
+1328649449 source:c:\users\olivier\desktop\regroupement v6\main.c
+	<allegro.h>
+	<time.h>
+	"headers.h"
+
+1328522974 source:c:\users\olivier\desktop\regroupement v6\parcour.c
+	"headers.h"
+
+1328647823 source:c:\users\olivier\desktop\regroupement v6\sous-prog.c
+	"headers.h"
+
+1328645812 source:c:\users\olivier\desktop\regroupement v6\vieillissement.c
+	"headers.h"
+
+1328650497 source:c:\users\olivier\desktop\regroupement v6\install.c
+	"headers.h"
+
+1328643127 source:c:\users\olivier\desktop\regroupement v7\affichage.c
+	"headers.h"
+
+1328650425 c:\users\olivier\desktop\regroupement v7\headers.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1328522974 source:c:\users\olivier\desktop\regroupement v7\alim.c
+	"headers.h"
+
+1328484507 source:c:\users\olivier\desktop\regroupement v7\animations.c
+	"headers.h"
+
+1328649440 source:c:\users\olivier\desktop\regroupement v7\chargement_images.c
+	"headers.h"
+
+1327919852 source:c:\users\olivier\desktop\regroupement v7\compteur_d'années.c
+	"headers.h"
+
+1328647513 source:c:\users\olivier\desktop\regroupement v7\destruction.c
+	"headers.h"
+
+1328462002 source:c:\users\olivier\desktop\regroupement v7\file.c
+	"headers.h"
+
+1328650948 source:c:\users\olivier\desktop\regroupement v7\install.c
+	"headers.h"
+
+1328650504 source:c:\users\olivier\desktop\regroupement v7\main.c
+	<allegro.h>
+	<time.h>
+	"headers.h"
+
+1328522974 source:c:\users\olivier\desktop\regroupement v7\parcour.c
+	"headers.h"
+
+1328647823 source:c:\users\olivier\desktop\regroupement v7\sous-prog.c
+	"headers.h"
+
+1328645812 source:c:\users\olivier\desktop\regroupement v7\vieillissement.c
+	"headers.h"
+
+1328643127 source:c:\users\robin\desktop\regroupement v7\affichage.c
+	"headers.h"
+
+1328650425 c:\users\robin\desktop\regroupement v7\headers.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1328652054 source:c:\users\robin\desktop\regroupement v7\alim.c
+	"headers.h"
+
+1328484507 source:c:\users\robin\desktop\regroupement v7\animations.c
+	"headers.h"
+
+1328649440 source:c:\users\robin\desktop\regroupement v7\chargement_images.c
+	"headers.h"
+
+1327919852 source:c:\users\robin\desktop\regroupement v7\compteur_d'années.c
+	"headers.h"
+
+1328647513 source:c:\users\robin\desktop\regroupement v7\destruction.c
+	"headers.h"
+
+1328462002 source:c:\users\robin\desktop\regroupement v7\file.c
+	"headers.h"
+
+1328650948 source:c:\users\robin\desktop\regroupement v7\install.c
+	"headers.h"
+
+1328650504 source:c:\users\robin\desktop\regroupement v7\main.c
+	<allegro.h>
+	<time.h>
+	"headers.h"
+
+1328651427 source:c:\users\robin\desktop\regroupement v7\parcour.c
+	"headers.h"
+
+1328647823 source:c:\users\robin\desktop\regroupement v7\sous-prog.c
+	"headers.h"
+
+1328645812 source:c:\users\robin\desktop\regroupement v7\vieillissement.c
+	"headers.h"
+
+1328643127 source:c:\users\robin\desktop\regroupement v8\affichage.c
+	"headers.h"
+
+1328650425 c:\users\robin\desktop\regroupement v8\headers.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1328652267 source:c:\users\robin\desktop\regroupement v8\alim.c
+	"headers.h"
+
+1328484507 source:c:\users\robin\desktop\regroupement v8\animations.c
+	"headers.h"
+
+1328649440 source:c:\users\robin\desktop\regroupement v8\chargement_images.c
+	"headers.h"
+
+1327919852 source:c:\users\robin\desktop\regroupement v8\compteur_d'années.c
+	"headers.h"
+
+1328647513 source:c:\users\robin\desktop\regroupement v8\destruction.c
+	"headers.h"
+
+1328462002 source:c:\users\robin\desktop\regroupement v8\file.c
+	"headers.h"
+
+1328653166 source:c:\users\robin\desktop\regroupement v8\install.c
+	"headers.h"
+
+1328652852 source:c:\users\robin\desktop\regroupement v8\main.c
+	<allegro.h>
+	<time.h>
+	"headers.h"
+
+1328651427 source:c:\users\robin\desktop\regroupement v8\parcour.c
+	"headers.h"
+
+1328647823 source:c:\users\robin\desktop\regroupement v8\sous-prog.c
+	"headers.h"
+
+1328652639 source:c:\users\robin\desktop\regroupement v8\vieillissement.c
+	"headers.h"
+
+1328643127 source:c:\users\olivier\desktop\regroupement v10\affichage.c
+	"headers.h"
+
+1328650425 c:\users\olivier\desktop\regroupement v10\headers.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1328652267 source:c:\users\olivier\desktop\regroupement v10\alim.c
+	"headers.h"
+
+1328484507 source:c:\users\olivier\desktop\regroupement v10\animations.c
+	"headers.h"
+
+1328649440 source:c:\users\olivier\desktop\regroupement v10\chargement_images.c
+	"headers.h"
+
+1327919852 source:c:\users\olivier\desktop\regroupement v10\compteur_d'années.c
+	"headers.h"
+
+1328647513 source:c:\users\olivier\desktop\regroupement v10\destruction.c
+	"headers.h"
+
+1328462002 source:c:\users\olivier\desktop\regroupement v10\file.c
+	"headers.h"
+
+1328651427 source:c:\users\olivier\desktop\regroupement v10\parcour.c
+	"headers.h"
+
+1328647823 source:c:\users\olivier\desktop\regroupement v10\sous-prog.c
+	"headers.h"
+
+1328652639 source:c:\users\olivier\desktop\regroupement v10\vieillissement.c
+	"headers.h"
+
+1328653503 source:c:\users\olivier\desktop\regroupement v10\install.c
+	"headers.h"
+
+1328653562 source:c:\users\olivier\desktop\regroupement v10\main.c
+	<allegro.h>
+	<time.h>
+	"headers.h"
+
+1328643127 source:c:\users\robin\desktop\regroupement v10\affichage.c
+	"headers.h"
+
+1328650425 c:\users\robin\desktop\regroupement v10\headers.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1328652267 source:c:\users\robin\desktop\regroupement v10\alim.c
+	"headers.h"
+
+1328484507 source:c:\users\robin\desktop\regroupement v10\animations.c
+	"headers.h"
+
+1328649440 source:c:\users\robin\desktop\regroupement v10\chargement_images.c
+	"headers.h"
+
+1327919852 source:c:\users\robin\desktop\regroupement v10\compteur_d'années.c
+	"headers.h"
+
+1328647513 source:c:\users\robin\desktop\regroupement v10\destruction.c
+	"headers.h"
+
+1328462002 source:c:\users\robin\desktop\regroupement v10\file.c
+	"headers.h"
+
+1328653503 source:c:\users\robin\desktop\regroupement v10\install.c
+	"headers.h"
+
+1328653873 source:c:\users\robin\desktop\regroupement v10\main.c
+	<allegro.h>
+	<time.h>
+	"headers.h"
+
+1328651427 source:c:\users\robin\desktop\regroupement v10\parcour.c
+	"headers.h"
+
+1328647823 source:c:\users\robin\desktop\regroupement v10\sous-prog.c
+	"headers.h"
+
+1328652639 source:c:\users\robin\desktop\regroupement v10\vieillissement.c
+	"headers.h"
+
+1328643127 source:c:\users\robin\desktop\regroupement v11\affichage.c
+	"headers.h"
+
+1328650425 c:\users\robin\desktop\regroupement v11\headers.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1328652267 source:c:\users\robin\desktop\regroupement v11\alim.c
+	"headers.h"
+
+1328484507 source:c:\users\robin\desktop\regroupement v11\animations.c
+	"headers.h"
+
+1328649440 source:c:\users\robin\desktop\regroupement v11\chargement_images.c
+	"headers.h"
+
+1327919852 source:c:\users\robin\desktop\regroupement v11\compteur_d'années.c
+	"headers.h"
+
+1328647513 source:c:\users\robin\desktop\regroupement v11\destruction.c
+	"headers.h"
+
+1328462002 source:c:\users\robin\desktop\regroupement v11\file.c
+	"headers.h"
+
+1328654099 source:c:\users\robin\desktop\regroupement v11\install.c
+	"headers.h"
+
+1328653972 source:c:\users\robin\desktop\regroupement v11\main.c
+	<allegro.h>
+	<time.h>
+	"headers.h"
+
+1328654282 source:c:\users\robin\desktop\regroupement v11\parcour.c
+	"headers.h"
+
+1328654187 source:c:\users\robin\desktop\regroupement v11\sous-prog.c
+	"headers.h"
+
+1328652639 source:c:\users\robin\desktop\regroupement v11\vieillissement.c
+	"headers.h"
+
+1328643127 source:c:\users\olivier\dropbox\01 dossiers de partage\projet ece city 2012\codes\regroupement v12\affichage.c
+	"headers.h"
+
+1328650425 c:\users\olivier\dropbox\01 dossiers de partage\projet ece city 2012\codes\regroupement v12\headers.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1328652267 source:c:\users\olivier\dropbox\01 dossiers de partage\projet ece city 2012\codes\regroupement v12\alim.c
+	"headers.h"
+
+1328484507 source:c:\users\olivier\dropbox\01 dossiers de partage\projet ece city 2012\codes\regroupement v12\animations.c
+	"headers.h"
+
+1328649440 source:c:\users\olivier\dropbox\01 dossiers de partage\projet ece city 2012\codes\regroupement v12\chargement_images.c
+	"headers.h"
+
+1327919852 source:c:\users\olivier\dropbox\01 dossiers de partage\projet ece city 2012\codes\regroupement v12\compteur_d'années.c
+	"headers.h"
+
+1328647513 source:c:\users\olivier\dropbox\01 dossiers de partage\projet ece city 2012\codes\regroupement v12\destruction.c
+	"headers.h"
+
+1328462002 source:c:\users\olivier\dropbox\01 dossiers de partage\projet ece city 2012\codes\regroupement v12\file.c
+	"headers.h"
+
+1328654926 source:c:\users\olivier\dropbox\01 dossiers de partage\projet ece city 2012\codes\regroupement v12\install.c
+	"headers.h"
+
+1328655354 source:c:\users\olivier\dropbox\01 dossiers de partage\projet ece city 2012\codes\regroupement v12\main.c
+	<allegro.h>
+	<time.h>
+	"headers.h"
+
+1328654282 source:c:\users\olivier\dropbox\01 dossiers de partage\projet ece city 2012\codes\regroupement v12\parcour.c
+	"headers.h"
+
+1328654187 source:c:\users\olivier\dropbox\01 dossiers de partage\projet ece city 2012\codes\regroupement v12\sous-prog.c
+	"headers.h"
+
+1328652639 source:c:\users\olivier\dropbox\01 dossiers de partage\projet ece city 2012\codes\regroupement v12\vieillissement.c
+	"headers.h"
+
+1328643127 source:c:\users\olivier\dropbox\01 dossiers de partage\projet ece city 2012\codes\regroupement v13\affichage.c
+	"headers.h"
+
+1328650425 c:\users\olivier\dropbox\01 dossiers de partage\projet ece city 2012\codes\regroupement v13\headers.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1328652267 source:c:\users\olivier\dropbox\01 dossiers de partage\projet ece city 2012\codes\regroupement v13\alim.c
+	"headers.h"
+
+1328484507 source:c:\users\olivier\dropbox\01 dossiers de partage\projet ece city 2012\codes\regroupement v13\animations.c
+	"headers.h"
+
+1328649440 source:c:\users\olivier\dropbox\01 dossiers de partage\projet ece city 2012\codes\regroupement v13\chargement_images.c
+	"headers.h"
+
+1327919852 source:c:\users\olivier\dropbox\01 dossiers de partage\projet ece city 2012\codes\regroupement v13\compteur_d'années.c
+	"headers.h"
+
+1328647513 source:c:\users\olivier\dropbox\01 dossiers de partage\projet ece city 2012\codes\regroupement v13\destruction.c
+	"headers.h"
+
+1328462002 source:c:\users\olivier\dropbox\01 dossiers de partage\projet ece city 2012\codes\regroupement v13\file.c
+	"headers.h"
+
+1328655354 source:c:\users\olivier\dropbox\01 dossiers de partage\projet ece city 2012\codes\regroupement v13\main.c
+	<allegro.h>
+	<time.h>
+	"headers.h"
+
+1328654282 source:c:\users\olivier\dropbox\01 dossiers de partage\projet ece city 2012\codes\regroupement v13\parcour.c
+	"headers.h"
+
+1328654187 source:c:\users\olivier\dropbox\01 dossiers de partage\projet ece city 2012\codes\regroupement v13\sous-prog.c
+	"headers.h"
+
+1328652639 source:c:\users\olivier\dropbox\01 dossiers de partage\projet ece city 2012\codes\regroupement v13\vieillissement.c
+	"headers.h"
+
+1328643127 source:c:\users\olivier\desktop\regroupement v13\affichage.c
+	"headers.h"
+
+1328663367 c:\users\olivier\desktop\regroupement v13\headers.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1328652267 source:c:\users\olivier\desktop\regroupement v13\alim.c
+	"headers.h"
+
+1328484507 source:c:\users\olivier\desktop\regroupement v13\animations.c
+	"headers.h"
+
+1328649440 source:c:\users\olivier\desktop\regroupement v13\chargement_images.c
+	"headers.h"
+
+1327919852 source:c:\users\olivier\desktop\regroupement v13\compteur_d'années.c
+	"headers.h"
+
+1328647513 source:c:\users\olivier\desktop\regroupement v13\destruction.c
+	"headers.h"
+
+1328462002 source:c:\users\olivier\desktop\regroupement v13\file.c
+	"headers.h"
+
+1328656054 source:c:\users\olivier\desktop\regroupement v13\install.c
+	"headers.h"
+
+1328663433 source:c:\users\olivier\desktop\regroupement v13\main.c
+	<allegro.h>
+	<time.h>
+	"headers.h"
+
+1328660429 source:c:\users\olivier\desktop\regroupement v13\parcour.c
+	"headers.h"
+
+1328654187 source:c:\users\olivier\desktop\regroupement v13\sous-prog.c
+	"headers.h"
+
+1328652639 source:c:\users\olivier\desktop\regroupement v13\vieillissement.c
+	"headers.h"
+
+1328663996 source:c:\users\olivier\desktop\regroupement v13\carte.c
+	"headers.h"
+
+1328643127 source:c:\users\olivier\desktop\regroupement v14\affichage.c
+	"headers.h"
+
+1328663367 c:\users\olivier\desktop\regroupement v14\headers.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1328652267 source:c:\users\olivier\desktop\regroupement v14\alim.c
+	"headers.h"
+
+1328484507 source:c:\users\olivier\desktop\regroupement v14\animations.c
+	"headers.h"
+
+1328663996 source:c:\users\olivier\desktop\regroupement v14\carte.c
+	"headers.h"
+
+1328649440 source:c:\users\olivier\desktop\regroupement v14\chargement_images.c
+	"headers.h"
+
+1327919852 source:c:\users\olivier\desktop\regroupement v14\compteur_d'années.c
+	"headers.h"
+
+1328647513 source:c:\users\olivier\desktop\regroupement v14\destruction.c
+	"headers.h"
+
+1328462002 source:c:\users\olivier\desktop\regroupement v14\file.c
+	"headers.h"
+
+1328656054 source:c:\users\olivier\desktop\regroupement v14\install.c
+	"headers.h"
+
+1328663433 source:c:\users\olivier\desktop\regroupement v14\main.c
+	<allegro.h>
+	<time.h>
+	"headers.h"
+
+1328660429 source:c:\users\olivier\desktop\regroupement v14\parcour.c
+	"headers.h"
+
+1328654187 source:c:\users\olivier\desktop\regroupement v14\sous-prog.c
+	"headers.h"
+
+1328652639 source:c:\users\olivier\desktop\regroupement v14\vieillissement.c
+	"headers.h"
+
+1328643127 source:c:\users\olivier\desktop\regroupement v15\affichage.c
+	"headers.h"
+
+1328728267 c:\users\olivier\desktop\regroupement v15\headers.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1328731177 source:c:\users\olivier\desktop\regroupement v15\alim.c
+	"headers.h"
+
+1328484507 source:c:\users\olivier\desktop\regroupement v15\animations.c
+	"headers.h"
+
+1328663996 source:c:\users\olivier\desktop\regroupement v15\carte.c
+	"headers.h"
+
+1328649440 source:c:\users\olivier\desktop\regroupement v15\chargement_images.c
+	"headers.h"
+
+1327919852 source:c:\users\olivier\desktop\regroupement v15\compteur_d'années.c
+	"headers.h"
+
+1328727621 source:c:\users\olivier\desktop\regroupement v15\destruction.c
+	"headers.h"
+
+1328462002 source:c:\users\olivier\desktop\regroupement v15\file.c
+	"headers.h"
+
+1328656054 source:c:\users\olivier\desktop\regroupement v15\install.c
+	"headers.h"
+
+1328660429 source:c:\users\olivier\desktop\regroupement v15\parcour.c
+	"headers.h"
+
+1328654187 source:c:\users\olivier\desktop\regroupement v15\sous-prog.c
+	"headers.h"
+
+1328652639 source:c:\users\olivier\desktop\regroupement v15\vieillissement.c
+	"headers.h"
+
+1328726302 source:c:\users\olivier\desktop\regroupement v15\main.c
+	<allegro.h>
+	<time.h>
+	"headers.h"
+
+1328643127 source:c:\users\robin\desktop\regroupement v16\affichage.c
+	"headers.h"
+
+1328728267 c:\users\robin\desktop\regroupement v16\headers.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1328731507 source:c:\users\robin\desktop\regroupement v16\alim.c
+	"headers.h"
+
+1328484507 source:c:\users\robin\desktop\regroupement v16\animations.c
+	"headers.h"
+
+1328663996 source:c:\users\robin\desktop\regroupement v16\carte.c
+	"headers.h"
+
+1328649440 source:c:\users\robin\desktop\regroupement v16\chargement_images.c
+	"headers.h"
+
+1327919852 source:c:\users\robin\desktop\regroupement v16\compteur_d'années.c
+	"headers.h"
+
+1328727621 source:c:\users\robin\desktop\regroupement v16\destruction.c
+	"headers.h"
+
+1328462002 source:c:\users\robin\desktop\regroupement v16\file.c
+	"headers.h"
+
+1328656054 source:c:\users\robin\desktop\regroupement v16\install.c
+	"headers.h"
+
+1328735135 source:c:\users\robin\desktop\regroupement v16\main.c
+	<allegro.h>
+	<time.h>
+	"headers.h"
+
+1328660429 source:c:\users\robin\desktop\regroupement v16\parcour.c
+	"headers.h"
+
+1328654187 source:c:\users\robin\desktop\regroupement v16\sous-prog.c
+	"headers.h"
+
+1328652639 source:c:\users\robin\desktop\regroupement v16\vieillissement.c
+	"headers.h"
+
+1328643127 source:c:\users\robin\desktop\regroupement v17\affichage.c
+	"headers.h"
+
+1328728267 c:\users\robin\desktop\regroupement v17\headers.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1328737164 source:c:\users\robin\desktop\regroupement v17\alim.c
+	"headers.h"
+
+1328484507 source:c:\users\robin\desktop\regroupement v17\animations.c
+	"headers.h"
+
+1328663996 source:c:\users\robin\desktop\regroupement v17\carte.c
+	"headers.h"
+
+1328649440 source:c:\users\robin\desktop\regroupement v17\chargement_images.c
+	"headers.h"
+
+1327919852 source:c:\users\robin\desktop\regroupement v17\compteur_d'années.c
+	"headers.h"
+
+1328727621 source:c:\users\robin\desktop\regroupement v17\destruction.c
+	"headers.h"
+
+1328462002 source:c:\users\robin\desktop\regroupement v17\file.c
+	"headers.h"
+
+1328656054 source:c:\users\robin\desktop\regroupement v17\install.c
+	"headers.h"
+
+1328737088 source:c:\users\robin\desktop\regroupement v17\main.c
+	<allegro.h>
+	<time.h>
+	"headers.h"
+
+1328736890 source:c:\users\robin\desktop\regroupement v17\parcour.c
+	"headers.h"
+
+1328654187 source:c:\users\robin\desktop\regroupement v17\sous-prog.c
+	"headers.h"
+
+1328652639 source:c:\users\robin\desktop\regroupement v17\vieillissement.c
+	"headers.h"
+
+1328643127 source:c:\users\robin\desktop\regroupement v18\affichage.c
+	"headers.h"
+
+1328740574 c:\users\robin\desktop\regroupement v18\headers.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1328741982 source:c:\users\robin\desktop\regroupement v18\alim.c
+	"headers.h"
+
+1328484507 source:c:\users\robin\desktop\regroupement v18\animations.c
+	"headers.h"
+
+1328663996 source:c:\users\robin\desktop\regroupement v18\carte.c
+	"headers.h"
+
+1328649440 source:c:\users\robin\desktop\regroupement v18\chargement_images.c
+	"headers.h"
+
+1327919852 source:c:\users\robin\desktop\regroupement v18\compteur_d'années.c
+	"headers.h"
+
+1328741982 source:c:\users\robin\desktop\regroupement v18\destruction.c
+	"headers.h"
+
+1328462002 source:c:\users\robin\desktop\regroupement v18\file.c
+	"headers.h"
+
+1328741813 source:c:\users\robin\desktop\regroupement v18\install.c
+	"headers.h"
+
+1328741082 source:c:\users\robin\desktop\regroupement v18\main.c
+	<allegro.h>
+	<time.h>
+	"headers.h"
+
+1328740214 source:c:\users\robin\desktop\regroupement v18\parcour.c
+	"headers.h"
+
+1328738365 source:c:\users\robin\desktop\regroupement v18\sous-prog.c
+	"headers.h"
+
+1328741610 source:c:\users\robin\desktop\regroupement v18\vieillissement.c
+	"headers.h"
+
+1328643127 source:c:\users\robin\desktop\regroupement v19\affichage.c
+	"headers.h"
+
+1328740574 c:\users\robin\desktop\regroupement v19\headers.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1328741982 source:c:\users\robin\desktop\regroupement v19\alim.c
+	"headers.h"
+
+1328484507 source:c:\users\robin\desktop\regroupement v19\animations.c
+	"headers.h"
+
+1328663996 source:c:\users\robin\desktop\regroupement v19\carte.c
+	"headers.h"
+
+1328649440 source:c:\users\robin\desktop\regroupement v19\chargement_images.c
+	"headers.h"
+
+1327919852 source:c:\users\robin\desktop\regroupement v19\compteur_d'années.c
+	"headers.h"
+
+1328741982 source:c:\users\robin\desktop\regroupement v19\destruction.c
+	"headers.h"
+
+1328462002 source:c:\users\robin\desktop\regroupement v19\file.c
+	"headers.h"
+
+1328829814 source:c:\users\robin\desktop\regroupement v19\install.c
+	"headers.h"
+
+1328829299 source:c:\users\robin\desktop\regroupement v19\main.c
+	<allegro.h>
+	<time.h>
+	"headers.h"
+
+1328738365 source:c:\users\robin\desktop\regroupement v19\sous-prog.c
+	"headers.h"
+
+1328741610 source:c:\users\robin\desktop\regroupement v19\vieillissement.c
+	"headers.h"
+
+1328830462 source:c:\users\robin\desktop\regroupement v19\parcour.c
+	"headers.h"
+
+1328836610 source:c:\users\robin\desktop\regroupement v20\affichage.c
+	"headers.h"
+
+1328835661 c:\users\robin\desktop\regroupement v20\headers.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1328835878 source:c:\users\robin\desktop\regroupement v20\alim.c
+	"headers.h"
+
+1328484507 source:c:\users\robin\desktop\regroupement v20\animations.c
+	"headers.h"
+
+1328663996 source:c:\users\robin\desktop\regroupement v20\carte.c
+	"headers.h"
+
+1328649440 source:c:\users\robin\desktop\regroupement v20\chargement_images.c
+	"headers.h"
+
+1327919852 source:c:\users\robin\desktop\regroupement v20\compteur_d'années.c
+	"headers.h"
+
+1328741982 source:c:\users\robin\desktop\regroupement v20\destruction.c
+	"headers.h"
+
+1328462002 source:c:\users\robin\desktop\regroupement v20\file.c
+	"headers.h"
+
+1328835661 source:c:\users\robin\desktop\regroupement v20\install.c
+	"headers.h"
+
+1328837169 source:c:\users\robin\desktop\regroupement v20\main.c
+	<allegro.h>
+	<time.h>
+	"headers.h"
+
+1328834263 source:c:\users\robin\desktop\regroupement v20\parcour.c
+	"headers.h"
+
+1328836524 source:c:\users\robin\desktop\regroupement v20\sous-prog.c
+	"headers.h"
+
+1328835998 source:c:\users\robin\desktop\regroupement v20\vieillissement.c
+	"headers.h"
+
+1328836610 source:c:\users\robin\desktop\regroupement v21\affichage.c
+	"headers.h"
+
+1328839315 c:\users\robin\desktop\regroupement v21\headers.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1328835878 source:c:\users\robin\desktop\regroupement v21\alim.c
+	"headers.h"
+
+1328484507 source:c:\users\robin\desktop\regroupement v21\animations.c
+	"headers.h"
+
+1328663996 source:c:\users\robin\desktop\regroupement v21\carte.c
+	"headers.h"
+
+1328649440 source:c:\users\robin\desktop\regroupement v21\chargement_images.c
+	"headers.h"
+
+1327919852 source:c:\users\robin\desktop\regroupement v21\compteur_d'années.c
+	"headers.h"
+
+1328741982 source:c:\users\robin\desktop\regroupement v21\destruction.c
+	"headers.h"
+
+1328462002 source:c:\users\robin\desktop\regroupement v21\file.c
+	"headers.h"
+
+1328834263 source:c:\users\robin\desktop\regroupement v21\parcour.c
+	"headers.h"
+
+1328835998 source:c:\users\robin\desktop\regroupement v21\vieillissement.c
+	"headers.h"
+
+1328840176 source:c:\users\robin\desktop\regroupement v21\install.c
+	"headers.h"
+
+1328839310 source:c:\users\robin\desktop\regroupement v21\sous-prog.c
+	"headers.h"
+
+1328839427 source:c:\users\robin\desktop\regroupement v21\main.c
+	<allegro.h>
+	<time.h>
+	"headers.h"
+
+1328836610 source:c:\users\robin\desktop\regroupement v22\affichage.c
+	"headers.h"
+
+1328841012 c:\users\robin\desktop\regroupement v22\headers.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1328835878 source:c:\users\robin\desktop\regroupement v22\alim.c
+	"headers.h"
+
+1328484507 source:c:\users\robin\desktop\regroupement v22\animations.c
+	"headers.h"
+
+1328663996 source:c:\users\robin\desktop\regroupement v22\carte.c
+	"headers.h"
+
+1327919852 source:c:\users\robin\desktop\regroupement v22\compteur_d'années.c
+	"headers.h"
+
+1328741982 source:c:\users\robin\desktop\regroupement v22\destruction.c
+	"headers.h"
+
+1328462002 source:c:\users\robin\desktop\regroupement v22\file.c
+	"headers.h"
+
+1328839427 source:c:\users\robin\desktop\regroupement v22\main.c
+	<allegro.h>
+	<time.h>
+	"headers.h"
+
+1328841276 source:c:\users\robin\desktop\regroupement v22\parcour.c
+	"headers.h"
+
+1328839310 source:c:\users\robin\desktop\regroupement v22\sous-prog.c
+	"headers.h"
+
+1328835998 source:c:\users\robin\desktop\regroupement v22\vieillissement.c
+	"headers.h"
+
+1328841122 source:c:\users\robin\desktop\regroupement v22\chargement_images.c
+	"headers.h"
+
+1328841012 source:c:\users\robin\desktop\regroupement v22\install.c
+	"headers.h"
+
+1328836610 source:c:\users\robin\desktop\regroupement v23\affichage.c
+	"headers.h"
+
+1328912170 c:\users\robin\desktop\regroupement v23\headers.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1328907415 source:c:\users\robin\desktop\regroupement v23\alim.c
+	"headers.h"
+
+1328484507 source:c:\users\robin\desktop\regroupement v23\animations.c
+	"headers.h"
+
+1328663996 source:c:\users\robin\desktop\regroupement v23\carte.c
+	"headers.h"
+
+1328841122 source:c:\users\robin\desktop\regroupement v23\chargement_images.c
+	"headers.h"
+
+1327919852 source:c:\users\robin\desktop\regroupement v23\compteur_d'années.c
+	"headers.h"
+
+1328741982 source:c:\users\robin\desktop\regroupement v23\destruction.c
+	"headers.h"
+
+1328462002 source:c:\users\robin\desktop\regroupement v23\file.c
+	"headers.h"
+
+1328841012 source:c:\users\robin\desktop\regroupement v23\install.c
+	"headers.h"
+
+1328916207 source:c:\users\robin\desktop\regroupement v23\main.c
+	<allegro.h>
+	<time.h>
+	"headers.h"
+
+1328911944 source:c:\users\robin\desktop\regroupement v23\parcour.c
+	"headers.h"
+
+1328909253 source:c:\users\robin\desktop\regroupement v23\sous-prog.c
+	"headers.h"
+
+1328835998 source:c:\users\robin\desktop\regroupement v23\vieillissement.c
+	"headers.h"
+
+1328841122 source:c:\users\robin\desktop\regroupement v25\chargement_images.c
+	"headers.h"
+
+1328918714 c:\users\robin\desktop\regroupement v25\headers.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1327919852 source:c:\users\robin\desktop\regroupement v25\compteur_d'années.c
+	"headers.h"
+
+1328918238 source:c:\users\robin\desktop\regroupement v25\file.c
+	"headers.h"
+
+1328917155 source:c:\users\robin\desktop\regroupement v25\affichage.c
+	"headers.h"
+
+1328921333 source:c:\users\robin\desktop\regroupement v25\alim.c
+	"headers.h"
+
+1328917155 source:c:\users\robin\desktop\regroupement v25\animations.c
+	"headers.h"
+
+1328917155 source:c:\users\robin\desktop\regroupement v25\carte.c
+	"headers.h"
+
+1328917155 source:c:\users\robin\desktop\regroupement v25\destruction.c
+	"headers.h"
+
+1328918268 source:c:\users\robin\desktop\regroupement v25\install.c
+	"headers.h"
+
+1328920328 source:c:\users\robin\desktop\regroupement v25\main.c
+	<allegro.h>
+	<time.h>
+	"headers.h"
+
+1328920982 source:c:\users\robin\desktop\regroupement v25\parcour.c
+	"headers.h"
+
+1328921373 source:c:\users\robin\desktop\regroupement v25\sous-prog.c
+	"headers.h"
+
+1328917156 source:c:\users\robin\desktop\regroupement v25\vieillissement.c
+	"headers.h"
+
+1328928384 source:c:\users\olivier\desktop\regroupement v28\affichage.c
+	"headers.h"
+
+1328924546 c:\users\olivier\desktop\regroupement v28\headers.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1328921333 source:c:\users\olivier\desktop\regroupement v28\alim.c
+	"headers.h"
+
+1328923646 source:c:\users\olivier\desktop\regroupement v28\animations.c
+	"headers.h"
+
+1328923856 source:c:\users\olivier\desktop\regroupement v28\carte.c
+	"headers.h"
+
+1328923825 source:c:\users\olivier\desktop\regroupement v28\chargement_images.c
+	"headers.h"
+
+1327919852 source:c:\users\olivier\desktop\regroupement v28\compteur_d'années.c
+	"headers.h"
+
+1328917155 source:c:\users\olivier\desktop\regroupement v28\destruction.c
+	"headers.h"
+
+1328918238 source:c:\users\olivier\desktop\regroupement v28\file.c
+	"headers.h"
+
+1328918268 source:c:\users\olivier\desktop\regroupement v28\install.c
+	"headers.h"
+
+1328926734 source:c:\users\olivier\desktop\regroupement v28\main.c
+	<allegro.h>
+	<time.h>
+	"headers.h"
+
+1328920982 source:c:\users\olivier\desktop\regroupement v28\parcour.c
+	"headers.h"
+
+1328925762 source:c:\users\olivier\desktop\regroupement v28\sous-prog.c
+	"headers.h"
+
+1328917156 source:c:\users\olivier\desktop\regroupement v28\vieillissement.c
+	"headers.h"
+
+1328928384 source:c:\users\olivier\dropbox\01 dossiers de partage\projet ece city 2012\codes\regroupement v28\affichage.c
+	"headers.h"
+
+1328924546 c:\users\olivier\dropbox\01 dossiers de partage\projet ece city 2012\codes\regroupement v28\headers.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1328921333 source:c:\users\olivier\dropbox\01 dossiers de partage\projet ece city 2012\codes\regroupement v28\alim.c
+	"headers.h"
+
+1328923646 source:c:\users\olivier\dropbox\01 dossiers de partage\projet ece city 2012\codes\regroupement v28\animations.c
+	"headers.h"
+
+1328923856 source:c:\users\olivier\dropbox\01 dossiers de partage\projet ece city 2012\codes\regroupement v28\carte.c
+	"headers.h"
+
+1328923825 source:c:\users\olivier\dropbox\01 dossiers de partage\projet ece city 2012\codes\regroupement v28\chargement_images.c
+	"headers.h"
+
+1327919852 source:c:\users\olivier\dropbox\01 dossiers de partage\projet ece city 2012\codes\regroupement v28\compteur_d'années.c
+	"headers.h"
+
+1328917155 source:c:\users\olivier\dropbox\01 dossiers de partage\projet ece city 2012\codes\regroupement v28\destruction.c
+	"headers.h"
+
+1328918238 source:c:\users\olivier\dropbox\01 dossiers de partage\projet ece city 2012\codes\regroupement v28\file.c
+	"headers.h"
+
+1328918268 source:c:\users\olivier\dropbox\01 dossiers de partage\projet ece city 2012\codes\regroupement v28\install.c
+	"headers.h"
+
+1328926734 source:c:\users\olivier\dropbox\01 dossiers de partage\projet ece city 2012\codes\regroupement v28\main.c
+	<allegro.h>
+	<time.h>
+	"headers.h"
+
+1328920982 source:c:\users\olivier\dropbox\01 dossiers de partage\projet ece city 2012\codes\regroupement v28\parcour.c
+	"headers.h"
+
+1328925762 source:c:\users\olivier\dropbox\01 dossiers de partage\projet ece city 2012\codes\regroupement v28\sous-prog.c
+	"headers.h"
+
+1328917156 source:c:\users\olivier\dropbox\01 dossiers de partage\projet ece city 2012\codes\regroupement v28\vieillissement.c
+	"headers.h"
+
+1328928384 source:c:\users\robin\desktop\regroupement v28\affichage.c
+	"headers.h"
+
+1328955423 c:\users\robin\desktop\regroupement v28\headers.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1328956115 source:c:\users\robin\desktop\regroupement v28\alim.c
+	"headers.h"
+
+1328923646 source:c:\users\robin\desktop\regroupement v28\animations.c
+	"headers.h"
+
+1328923856 source:c:\users\robin\desktop\regroupement v28\carte.c
+	"headers.h"
+
+1328923825 source:c:\users\robin\desktop\regroupement v28\chargement_images.c
+	"headers.h"
+
+1327919852 source:c:\users\robin\desktop\regroupement v28\compteur_d'années.c
+	"headers.h"
+
+1328917155 source:c:\users\robin\desktop\regroupement v28\destruction.c
+	"headers.h"
+
+1328956410 source:c:\users\robin\desktop\regroupement v28\file.c
+	"headers.h"
+
+1328918268 source:c:\users\robin\desktop\regroupement v28\install.c
+	"headers.h"
+
+1328926734 source:c:\users\robin\desktop\regroupement v28\main.c
+	<allegro.h>
+	<time.h>
+	"headers.h"
+
+1328955859 source:c:\users\robin\desktop\regroupement v28\parcour.c
+	"headers.h"
+
+1328956224 source:c:\users\robin\desktop\regroupement v28\sous-prog.c
+	"headers.h"
+
+1328917156 source:c:\users\robin\desktop\regroupement v28\vieillissement.c
+	"headers.h"
+
+1328928384 source:c:\users\robin\desktop\regroupement v29\affichage.c
+	"headers.h"
+
+1328955423 c:\users\robin\desktop\regroupement v29\headers.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1328959637 source:c:\users\robin\desktop\regroupement v29\alim.c
+	"headers.h"
+
+1328923646 source:c:\users\robin\desktop\regroupement v29\animations.c
+	"headers.h"
+
+1328923856 source:c:\users\robin\desktop\regroupement v29\carte.c
+	"headers.h"
+
+1328923825 source:c:\users\robin\desktop\regroupement v29\chargement_images.c
+	"headers.h"
+
+1327919852 source:c:\users\robin\desktop\regroupement v29\compteur_d'années.c
+	"headers.h"
+
+1328917155 source:c:\users\robin\desktop\regroupement v29\destruction.c
+	"headers.h"
+
+1328918268 source:c:\users\robin\desktop\regroupement v29\install.c
+	"headers.h"
+
+1328926734 source:c:\users\robin\desktop\regroupement v29\main.c
+	<allegro.h>
+	<time.h>
+	"headers.h"
+
+1328959637 source:c:\users\robin\desktop\regroupement v29\parcour.c
+	"headers.h"
+
+1328959728 source:c:\users\robin\desktop\regroupement v29\sous-prog.c
+	"headers.h"
+
+1328917156 source:c:\users\robin\desktop\regroupement v29\vieillissement.c
+	"headers.h"
+
+1328959637 source:c:\users\robin\desktop\regroupement v29\file.c
+	"headers.h"
+
+1329045163 source:c:\users\robin\desktop\regroupement v30(on y est presque)\affichage.c
+	"headers.h"
+
+1329046113 c:\users\robin\desktop\regroupement v30(on y est presque)\headers.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1329045707 source:c:\users\robin\desktop\regroupement v30(on y est presque)\alim.c
+	"headers.h"
+
+1328923646 source:c:\users\robin\desktop\regroupement v30(on y est presque)\animations.c
+	"headers.h"
+
+1328923856 source:c:\users\robin\desktop\regroupement v30(on y est presque)\carte.c
+	"headers.h"
+
+1328923825 source:c:\users\robin\desktop\regroupement v30(on y est presque)\chargement_images.c
+	"headers.h"
+
+1327919852 source:c:\users\robin\desktop\regroupement v30(on y est presque)\compteur_d'années.c
+	"headers.h"
+
+1328917155 source:c:\users\robin\desktop\regroupement v30(on y est presque)\destruction.c
+	"headers.h"
+
+1328959907 source:c:\users\robin\desktop\regroupement v30(on y est presque)\file.c
+	"headers.h"
+
+1328918268 source:c:\users\robin\desktop\regroupement v30(on y est presque)\install.c
+	"headers.h"
+
+1328926734 source:c:\users\robin\desktop\regroupement v30(on y est presque)\main.c
+	<allegro.h>
+	<time.h>
+	"headers.h"
+
+1329045479 source:c:\users\robin\desktop\regroupement v30(on y est presque)\parcour.c
+	"headers.h"
+
+1329044650 source:c:\users\robin\desktop\regroupement v30(on y est presque)\sous-prog.c
+	"headers.h"
+
+1328917156 source:c:\users\robin\desktop\regroupement v30(on y est presque)\vieillissement.c
+	"headers.h"
+
+1329045163 source:c:\users\olivier\desktop\regroupement v34(fonctionel)\affichage.c
+	"headers.h"
+
+1329046113 c:\users\olivier\desktop\regroupement v34(fonctionel)\headers.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1329045707 source:c:\users\olivier\desktop\regroupement v34(fonctionel)\alim.c
+	"headers.h"
+
+1328923646 source:c:\users\olivier\desktop\regroupement v34(fonctionel)\animations.c
+	"headers.h"
+
+1328923856 source:c:\users\olivier\desktop\regroupement v34(fonctionel)\carte.c
+	"headers.h"
+
+1328923825 source:c:\users\olivier\desktop\regroupement v34(fonctionel)\chargement_images.c
+	"headers.h"
+
+1327919852 source:c:\users\olivier\desktop\regroupement v34(fonctionel)\compteur_d'années.c
+	"headers.h"
+
+1328917155 source:c:\users\olivier\desktop\regroupement v34(fonctionel)\destruction.c
+	"headers.h"
+
+1328959907 source:c:\users\olivier\desktop\regroupement v34(fonctionel)\file.c
+	"headers.h"
+
+1328918268 source:c:\users\olivier\desktop\regroupement v34(fonctionel)\install.c
+	"headers.h"
+
+1329046354 source:c:\users\olivier\desktop\regroupement v34(fonctionel)\main.c
+	<allegro.h>
+	<time.h>
+	"headers.h"
+
+1329045479 source:c:\users\olivier\desktop\regroupement v34(fonctionel)\parcour.c
+	"headers.h"
+
+1329044650 source:c:\users\olivier\desktop\regroupement v34(fonctionel)\sous-prog.c
+	"headers.h"
+
+1328917156 source:c:\users\olivier\desktop\regroupement v34(fonctionel)\vieillissement.c
+	"headers.h"
+
+1329045163 source:c:\users\olivier\desktop\regroupement v35\affichage.c
+	"headers.h"
+
+1329048349 c:\users\olivier\desktop\regroupement v35\headers.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1329045707 source:c:\users\olivier\desktop\regroupement v35\alim.c
+	"headers.h"
+
+1328923646 source:c:\users\olivier\desktop\regroupement v35\animations.c
+	"headers.h"
+
+1328923856 source:c:\users\olivier\desktop\regroupement v35\carte.c
+	"headers.h"
+
+1329048349 source:c:\users\olivier\desktop\regroupement v35\chargement_images.c
+	"headers.h"
+
+1327919852 source:c:\users\olivier\desktop\regroupement v35\compteur_d'années.c
+	"headers.h"
+
+1328917155 source:c:\users\olivier\desktop\regroupement v35\destruction.c
+	"headers.h"
+
+1328959907 source:c:\users\olivier\desktop\regroupement v35\file.c
+	"headers.h"
+
+1328918268 source:c:\users\olivier\desktop\regroupement v35\install.c
+	"headers.h"
+
+1329048349 source:c:\users\olivier\desktop\regroupement v35\main.c
+	<allegro.h>
+	<time.h>
+	"headers.h"
+
+1329045479 source:c:\users\olivier\desktop\regroupement v35\parcour.c
+	"headers.h"
+
+1329044650 source:c:\users\olivier\desktop\regroupement v35\sous-prog.c
+	"headers.h"
+
+1328917156 source:c:\users\olivier\desktop\regroupement v35\vieillissement.c
+	"headers.h"
+
+1329045163 source:c:\users\olivier\desktop\regroupement v35(=v34 avec menu)\affichage.c
+	"headers.h"
+
+1329048349 c:\users\olivier\desktop\regroupement v35(=v34 avec menu)\headers.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1329045707 source:c:\users\olivier\desktop\regroupement v35(=v34 avec menu)\alim.c
+	"headers.h"
+
+1328923646 source:c:\users\olivier\desktop\regroupement v35(=v34 avec menu)\animations.c
+	"headers.h"
+
+1328923856 source:c:\users\olivier\desktop\regroupement v35(=v34 avec menu)\carte.c
+	"headers.h"
+
+1329048349 source:c:\users\olivier\desktop\regroupement v35(=v34 avec menu)\chargement_images.c
+	"headers.h"
+
+1327919852 source:c:\users\olivier\desktop\regroupement v35(=v34 avec menu)\compteur_d'années.c
+	"headers.h"
+
+1328917155 source:c:\users\olivier\desktop\regroupement v35(=v34 avec menu)\destruction.c
+	"headers.h"
+
+1328959907 source:c:\users\olivier\desktop\regroupement v35(=v34 avec menu)\file.c
+	"headers.h"
+
+1328918268 source:c:\users\olivier\desktop\regroupement v35(=v34 avec menu)\install.c
+	"headers.h"
+
+1329048349 source:c:\users\olivier\desktop\regroupement v35(=v34 avec menu)\main.c
+	<allegro.h>
+	<time.h>
+	"headers.h"
+
+1329045479 source:c:\users\olivier\desktop\regroupement v35(=v34 avec menu)\parcour.c
+	"headers.h"
+
+1329044650 source:c:\users\olivier\desktop\regroupement v35(=v34 avec menu)\sous-prog.c
+	"headers.h"
+
+1328917156 source:c:\users\olivier\desktop\regroupement v35(=v34 avec menu)\vieillissement.c
+	"headers.h"
+
+1329045163 source:c:\users\robin\desktop\regroupement v35(=v34 avec menu)\affichage.c
+	"headers.h"
+
+1329048349 c:\users\robin\desktop\regroupement v35(=v34 avec menu)\headers.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1329045707 source:c:\users\robin\desktop\regroupement v35(=v34 avec menu)\alim.c
+	"headers.h"
+
+1328923646 source:c:\users\robin\desktop\regroupement v35(=v34 avec menu)\animations.c
+	"headers.h"
+
+1328923856 source:c:\users\robin\desktop\regroupement v35(=v34 avec menu)\carte.c
+	"headers.h"
+
+1329048349 source:c:\users\robin\desktop\regroupement v35(=v34 avec menu)\chargement_images.c
+	"headers.h"
+
+1327919852 source:c:\users\robin\desktop\regroupement v35(=v34 avec menu)\compteur_d'années.c
+	"headers.h"
+
+1329052235 source:c:\users\robin\desktop\regroupement v35(=v34 avec menu)\destruction.c
+	"headers.h"
+
+1328959907 source:c:\users\robin\desktop\regroupement v35(=v34 avec menu)\file.c
+	"headers.h"
+
+1328918268 source:c:\users\robin\desktop\regroupement v35(=v34 avec menu)\install.c
+	"headers.h"
+
+1329052235 source:c:\users\robin\desktop\regroupement v35(=v34 avec menu)\main.c
+	<allegro.h>
+	<time.h>
+	"headers.h"
+
+1329045479 source:c:\users\robin\desktop\regroupement v35(=v34 avec menu)\parcour.c
+	"headers.h"
+
+1329044650 source:c:\users\robin\desktop\regroupement v35(=v34 avec menu)\sous-prog.c
+	"headers.h"
+
+1328917156 source:c:\users\robin\desktop\regroupement v35(=v34 avec menu)\vieillissement.c
+	"headers.h"
+
+1329058137 source:c:\users\olivier\desktop\regroupement v37(ancien affichage)\affichage.c
+	"headers.h"
+
+1329048349 c:\users\olivier\desktop\regroupement v37(ancien affichage)\headers.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1329045707 source:c:\users\olivier\desktop\regroupement v37(ancien affichage)\alim.c
+	"headers.h"
+
+1328923646 source:c:\users\olivier\desktop\regroupement v37(ancien affichage)\animations.c
+	"headers.h"
+
+1328923856 source:c:\users\olivier\desktop\regroupement v37(ancien affichage)\carte.c
+	"headers.h"
+
+1329048349 source:c:\users\olivier\desktop\regroupement v37(ancien affichage)\chargement_images.c
+	"headers.h"
+
+1327919852 source:c:\users\olivier\desktop\regroupement v37(ancien affichage)\compteur_d'années.c
+	"headers.h"
+
+1329052235 source:c:\users\olivier\desktop\regroupement v37(ancien affichage)\destruction.c
+	"headers.h"
+
+1328959907 source:c:\users\olivier\desktop\regroupement v37(ancien affichage)\file.c
+	"headers.h"
+
+1329054321 source:c:\users\olivier\desktop\regroupement v37(ancien affichage)\install.c
+	"headers.h"
+
+1329052235 source:c:\users\olivier\desktop\regroupement v37(ancien affichage)\main.c
+	<allegro.h>
+	<time.h>
+	"headers.h"
+
+1329045479 source:c:\users\olivier\desktop\regroupement v37(ancien affichage)\parcour.c
+	"headers.h"
+
+1329044650 source:c:\users\olivier\desktop\regroupement v37(ancien affichage)\sous-prog.c
+	"headers.h"
+
+1328917156 source:c:\users\olivier\desktop\regroupement v37(ancien affichage)\vieillissement.c
+	"headers.h"
+
+1329058137 source:c:\users\robin\desktop\regroupement v38\affichage.c
+	"headers.h"
+
+1329048349 c:\users\robin\desktop\regroupement v38\headers.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1329045707 source:c:\users\robin\desktop\regroupement v38\alim.c
+	"headers.h"
+
+1328923646 source:c:\users\robin\desktop\regroupement v38\animations.c
+	"headers.h"
+
+1328923856 source:c:\users\robin\desktop\regroupement v38\carte.c
+	"headers.h"
+
+1329048349 source:c:\users\robin\desktop\regroupement v38\chargement_images.c
+	"headers.h"
+
+1327919852 source:c:\users\robin\desktop\regroupement v38\compteur_d'années.c
+	"headers.h"
+
+1329052235 source:c:\users\robin\desktop\regroupement v38\destruction.c
+	"headers.h"
+
+1328959907 source:c:\users\robin\desktop\regroupement v38\file.c
+	"headers.h"
+
+1329054321 source:c:\users\robin\desktop\regroupement v38\install.c
+	"headers.h"
+
+1329052235 source:c:\users\robin\desktop\regroupement v38\main.c
+	<allegro.h>
+	<time.h>
+	"headers.h"
+
+1329059376 source:c:\users\robin\desktop\regroupement v38\parcour.c
+	"headers.h"
+
+1329044650 source:c:\users\robin\desktop\regroupement v38\sous-prog.c
+	"headers.h"
+
+1328917156 source:c:\users\robin\desktop\regroupement v38\vieillissement.c
+	"headers.h"
+
+1329058137 source:c:\users\robin\desktop\regroupement v39\affichage.c
+	"headers.h"
+
+1329048349 c:\users\robin\desktop\regroupement v39\headers.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1329045707 source:c:\users\robin\desktop\regroupement v39\alim.c
+	"headers.h"
+
+1328923646 source:c:\users\robin\desktop\regroupement v39\animations.c
+	"headers.h"
+
+1328923856 source:c:\users\robin\desktop\regroupement v39\carte.c
+	"headers.h"
+
+1329048349 source:c:\users\robin\desktop\regroupement v39\chargement_images.c
+	"headers.h"
+
+1327919852 source:c:\users\robin\desktop\regroupement v39\compteur_d'années.c
+	"headers.h"
+
+1329052235 source:c:\users\robin\desktop\regroupement v39\destruction.c
+	"headers.h"
+
+1328959907 source:c:\users\robin\desktop\regroupement v39\file.c
+	"headers.h"
+
+1329054321 source:c:\users\robin\desktop\regroupement v39\install.c
+	"headers.h"
+
+1329052235 source:c:\users\robin\desktop\regroupement v39\main.c
+	<allegro.h>
+	<time.h>
+	"headers.h"
+
+1329044650 source:c:\users\robin\desktop\regroupement v39\sous-prog.c
+	"headers.h"
+
+1329059653 source:c:\users\robin\desktop\regroupement v39\vieillissement.c
+	"headers.h"
+
+1329060184 source:c:\users\robin\desktop\regroupement v39\parcour.c
+	"headers.h"
+
+1329058137 source:c:\users\robin\desktop\regroupement v40\affichage.c
+	"headers.h"
+
+1329048349 c:\users\robin\desktop\regroupement v40\headers.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1329045707 source:c:\users\robin\desktop\regroupement v40\alim.c
+	"headers.h"
+
+1328923646 source:c:\users\robin\desktop\regroupement v40\animations.c
+	"headers.h"
+
+1328923856 source:c:\users\robin\desktop\regroupement v40\carte.c
+	"headers.h"
+
+1329048349 source:c:\users\robin\desktop\regroupement v40\chargement_images.c
+	"headers.h"
+
+1327919852 source:c:\users\robin\desktop\regroupement v40\compteur_d'années.c
+	"headers.h"
+
+1329052235 source:c:\users\robin\desktop\regroupement v40\destruction.c
+	"headers.h"
+
+1328959907 source:c:\users\robin\desktop\regroupement v40\file.c
+	"headers.h"
+
+1329054321 source:c:\users\robin\desktop\regroupement v40\install.c
+	"headers.h"
+
+1329061344 source:c:\users\robin\desktop\regroupement v40\parcour.c
+	"headers.h"
+
+1329044650 source:c:\users\robin\desktop\regroupement v40\sous-prog.c
+	"headers.h"
+
+1329059653 source:c:\users\robin\desktop\regroupement v40\vieillissement.c
+	"headers.h"
+
+1329058137 source:c:\users\olivier\desktop\nouveau dossier\ececity2012_biondi-bouchere-joganah\affichage.c
+	"headers.h"
+
+1329048349 c:\users\olivier\desktop\nouveau dossier\ececity2012_biondi-bouchere-joganah\headers.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1329045707 source:c:\users\olivier\desktop\nouveau dossier\ececity2012_biondi-bouchere-joganah\alim.c
+	"headers.h"
+
+1328923646 source:c:\users\olivier\desktop\nouveau dossier\ececity2012_biondi-bouchere-joganah\animations.c
+	"headers.h"
+
+1328923856 source:c:\users\olivier\desktop\nouveau dossier\ececity2012_biondi-bouchere-joganah\carte.c
+	"headers.h"
+
+1329048349 source:c:\users\olivier\desktop\nouveau dossier\ececity2012_biondi-bouchere-joganah\chargement_images.c
+	"headers.h"
+
+1327919852 source:c:\users\olivier\desktop\nouveau dossier\ececity2012_biondi-bouchere-joganah\compteur_d'années.c
+	"headers.h"
+
+1329052235 source:c:\users\olivier\desktop\nouveau dossier\ececity2012_biondi-bouchere-joganah\destruction.c
+	"headers.h"
+
+1328959907 source:c:\users\olivier\desktop\nouveau dossier\ececity2012_biondi-bouchere-joganah\file.c
+	"headers.h"
+
+1329054321 source:c:\users\olivier\desktop\nouveau dossier\ececity2012_biondi-bouchere-joganah\install.c
+	"headers.h"
+
+1329086625 source:c:\users\olivier\desktop\nouveau dossier\ececity2012_biondi-bouchere-joganah\main.c
+	<allegro.h>
+	<time.h>
+	"headers.h"
+
+1329061344 source:c:\users\olivier\desktop\nouveau dossier\ececity2012_biondi-bouchere-joganah\parcour.c
+	"headers.h"
+
+1329044650 source:c:\users\olivier\desktop\nouveau dossier\ececity2012_biondi-bouchere-joganah\sous-prog.c
+	"headers.h"
+
+1329059653 source:c:\users\olivier\desktop\nouveau dossier\ececity2012_biondi-bouchere-joganah\vieillissement.c
+	"headers.h"
+

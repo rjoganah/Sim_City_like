@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="projet ECE-City" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin\Debug\projet ECE-City" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Debug\" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+				<Linker>
+					<Add library="alleg" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin\Release\projet ECE-City" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Release\" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+					<Add library="alleg" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="affichage.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="alim.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="animations.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="carte.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="chargement_images.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="compteur_d&apos;années.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="destruction.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="file.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="headers.h" />
+		<Unit filename="install.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="parcour.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="sous-prog.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="vieillissement.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<debugger />
+			<envvars />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
